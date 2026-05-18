@@ -88,7 +88,7 @@ import os
 import shutil
 
 # Folder containing extracted batch folders
-source_root = "size_based_batches"
+source_root = "protected_batches"
 
 # Final merged folder
 merged_folder = "images"
