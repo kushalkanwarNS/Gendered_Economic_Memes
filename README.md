@@ -91,7 +91,7 @@ import shutil
 source_root = "size_based_batches"
 
 # Final merged folder
-merged_folder = "merged_images"
+merged_folder = "images"
 
 # Create merged folder
 os.makedirs(merged_folder, exist_ok=True)
