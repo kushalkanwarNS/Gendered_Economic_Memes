@@ -47,7 +47,7 @@ Each ZIP file is password protected.
 
 To obtain the password for accessing the dataset batches, please contact:
 
-```text
+```
 kushalneo@gmail.com
 ```
 
