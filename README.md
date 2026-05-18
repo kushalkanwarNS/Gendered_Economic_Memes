@@ -118,11 +118,11 @@ print("All batches merged successfully!")
 
 The file `memes.csv` contains the labels and associated metadata required for using the dataset.
 
-After merging all image batches, keep the dataset in the following structure:
+After merging all image batches (name it as images), keep the dataset in the following structure:
 
 ```text
 project/
-├── merged_images/
+├── images/
 │   ├── image1.jpg
 │   ├── image2.jpg
 │   └── ...
