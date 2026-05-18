@@ -43,9 +43,24 @@ Each ZIP file is password protected.
 # Password
 
 ```
-Mail me for the password email id: kushalneo@gmail.com
+# Dataset Password Request
+
+To obtain the password for accessing the dataset batches, please contact:
+
+```text
+kushalneo@gmail.com
 ```
 
+By requesting or using the dataset, you agree to the following conditions:
+
+- The dataset will be used strictly for academic, educational, and non-commercial research purposes.
+- The dataset will not be redistributed, re-uploaded, mirrored, or publicly shared in any form without explicit permission from the authors.
+- The dataset will not be used to generate, promote, or disseminate harmful, hateful, abusive, or discriminatory content.
+- Users must comply with institutional ethical guidelines, copyright regulations, and responsible AI research practices.
+- The authors do not endorse any offensive, harmful, or stereotypical viewpoints present in the dataset.
+- If requested by the authors or copyright holders, users agree to remove the dataset and any derived unauthorized redistributions.
+
+By requesting the password, you acknowledge and agree to the above ethical usage and non-redistribution conditions.
 ---
 
 # Reconstructing the Dataset
