@@ -113,7 +113,27 @@ for batch_name in sorted(os.listdir(source_root)):
 
 print("All batches merged successfully!")
 ```
+---
+## Step 3: Use `memes.csv` for Labels and Metadata
 
+The file `memes.csv` contains the labels and associated metadata required for using the dataset.
+
+After merging all image batches, keep the dataset in the following structure:
+
+```text
+project/
+├── merged_images/
+│   ├── image1.jpg
+│   ├── image2.jpg
+│   └── ...
+│
+├── memes.csv
+└── README.md
+```
+
+The `memes.csv` file should be used to map each image to its corresponding label and other dataset-specific information.
+
+Users should not modify the original `memes.csv` file unless required for preprocessing or experimental setup. Any preprocessing changes should be clearly documented for reproducibility.
 ---
 
 # Ethical Usage Guidelines
