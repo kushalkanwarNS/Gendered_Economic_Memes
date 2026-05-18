@@ -136,6 +136,21 @@ The `memes.csv` file should be used to map each image to its corresponding label
 Users should not modify the original `memes.csv` file unless required for preprocessing or experimental setup. Any preprocessing changes should be clearly documented for reproducibility.
 ---
 
+---
+
+## Step 4: Search Queries Used for Data Collection
+
+The file `completed_queries.txt` contains the search queries and prompts used during the web data collection and scraping process for constructing the dataset.
+
+Keep the repository structure as follows:
+
+```text
+project/
+├── images/
+├── memes.csv
+├── completed_queries.txt
+└── README.md
+
 # Ethical Usage Guidelines
 
 By using this dataset, you agree to the following conditions:
